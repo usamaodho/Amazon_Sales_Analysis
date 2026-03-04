@@ -1,3 +1,3 @@
-# Python_Amazon_Sales_Analysis
+# Amazon Sales Performance Analysis & Interactive Dashboard
 
-Python project for beginners- Analyze Amazon sales data to check the buyers preferred choice in the sales
+Analyzed Amazon sales data to identify revenue trends, top-performing products, and regional performance insights. Performed data cleaning, exploratory analysis, and built an interactive dashboard to support data-driven business decisions and sales optimization.
